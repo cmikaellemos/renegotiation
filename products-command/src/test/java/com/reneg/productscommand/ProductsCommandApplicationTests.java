@@ -1,10 +1,10 @@
-package com.reneg.debtsquery;
+package com.reneg.productscommand;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DebtsQueryApplicationTests {
+class ProductsCommandApplicationTests {
 
 	@Test
 	void contextLoads() {
